@@ -1,0 +1,236 @@
+PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS
+Bacharelado em Ciência da Computação
+Vitor Alexandre Moreira Amaral
+Pedro Henrique Bellone Souza e Silva
+Benefícios e Malefícios da Regulamentação da Inteligência
+Arti˝cial
+Belo Horizonte
+2024
+
+Vitor Alexandre Moreira Amaral
+Pedro Henrique Bellone Souza e Silva
+Benefícios e Malefícios da Regulamentação da Inteligência
+Arti˝cial
+Pro jeto de Pesquisa apresentado na disci-
+plina Trabalho Interdisciplinar I I I - Pesquisa
+Aplicada do curso de Ciência da Computação
+da Pontifícia Univers idade Católica de Minas
+Gerais.
+Belo Horizonte
+2024
+
+RESUMO
+Este Pro jeto de Pesquisa analisa os b enefícios e malefícios asso ciados à regulamentação
+da Inteligência Arti˝cial (IA). A regulamentação é essencial para promover o uso ético e
+seguro da IA, prevenindo riscos como discriminação, invasão de privacidade e uso inde-
+vido. No entanto, normas excessivamente restritivas p o dem inibir a inovação, desacelerar
+avanços tecnológicos e criar barreiras econômicas. O estudo ab orda o equilíbrio necessário
+entre proteção so cial e incentivo à p esquisa, destacando exemplos práticos de regulamen-
+taçõ es b em-sucedidas e os desa˝os enfrentados em sua implementação. Por ˝m, são
+prop ostas diretrizes para uma regulamentação equilibrada, que maximize os b enefícios da
+IA enquanto mitiga seus p otenciais malefícios.
+Palavras-chave: Inteligência Arti˝cial, Regulamentação, Benefícios, Malefícios, Ética, Pri-
+vacidade, Inovação, Desenvolvimento Tecnológico.
+
+SUMÁRIO
+1 INTRODUÇÃO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+1.1 Ob jetivos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+25
+1.1.1 Objetivos especí˝cos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+25
+2 REVISÃO BIBLIOGRÁFICA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+2.1 Fundamentação Teórica
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+26
+2.2 Trabalhos Relacionados
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+27
+3 METODOLOGIA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+3.1 Atividades a serem realizadas
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+28
+3.1.1 Atividade 1: Análise Docu mental . . . . . . . . . . . . . . . . . . . . . . . . . .
+28
+3.1.2 Atividade 2: Pesquisa Qualitativa . . . . . . . . . . . . . . . . . . . . . . . . .
+28
+3.1.3 Atividade 3: Pesquisa Quantitati va . . . . . . . . . . . . . . . . . . . . . . . .
+28
+3.1.4 Atividade 4: Análise dos Dados e Triangulação . . . . . . . . . . . . . .
+29
+3.1.5 Atividade 5: Resultados e Recomendações . . . . . . . . . . . . . . . . . .
+29
+3.2 Cronograma
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+29
+REFERÊNCIAS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+
+25
+1 INTRODUÇÃO
+A inteligência arti˝cial (IA) tornou-se uma das tecnologias mais transformadoras
+do século XXI. As suas aplicaçõ es abrangem a maioria dos camp os humanos e computa-
+cionais, oferecendo uma série de b enefícios, incluindo aumento de e˝ciência, redução de
+custos e a p ossibilidade de resolver problemas complexos. No entanto,o elevado uso da
+inteligência arti˝cial tamb ém levantou preo cupaçõ es sobre os seus p otenciais danos, como
+a p erda de empregos, a privacidade dos dados e as p ossíveis implicaçõ es éticas da tomada
+de decisõ es autónoma p or parte das máquinas.
+"A rápida ado ção de sistemas de inteligência arti˝cial em diversos setores da so cie-
+dade demanda uma análise cuidadosa de seus impactos, tanto p ositivos quanto negativos,
+esp ecialmente no que diz resp eito à ética e à governança". (Floridi et al., 2018)
+1.1 Ob jetivos
+O ob jetivo geral deste pro jeto é analisar os b ene˝cios e male˝cios de regulamentar
+a IA
+1.1.1 Objetivos especí˝cos
+Os ob jetivos esp ecí˝cos deste pro jeto são:
+1.
+ Visualizar os principais usos inadequados da IA em diversas áreas.
+2.
+ Avaliar os impactos so ciais, econômicos do uso incorreto da IA.
+3.
+ Compreeder o que a falta de regulamentação da IA p o de causar.
+
+26
+2 REVISÃO BIBLIOGRÁFICA
+Este capítulo apres enta a fundamentação teórica relacionada à regulamentação
+da Inteligência Arti˝cial (IA), destacando os principais b enefícios e malefícios asso ciados
+à sua implementação. Além disso, será discutido o impacto so cial e econômico da IA,
+com fo co nos usos inadequados em diversas áreas e as consequências da ausência de
+regulamentação adequada.
+2.1 Fundamentação Teórica
+A IA está revolucionando diversos setores, desde a saúde até o comércio, trazendo
+ganhos signi˝cativos de e˝ciência e inovação. No entanto, s ua rápida expansão tamb ém
+suscita preo cupaçõ es quanto à ética, à transparência e à resp onsabilidade no uso dessa
+tecnologia. Segundo Binns (2018), a IA, sem uma regulamentação adequada, p o de reforçar
+vieses existentes e p erp etuar desigualdades so ciais, esp ecialmente em áreas como justiça
+criminal e recursos humanos.
+Os b enefícios da regulamentação são amplamente debatidos. Para Cath et al.
+(2018), uma regulamentação clara p o de garantir que a IA seja desenvolvida e utilizada
+de maneira ética, protegendo os direitos dos indivíduos e promovendo a equidade. Além
+disso, a regulamentação p o de aumentar a con˝ança do público na IA, incentivando a
+ado ção segura de inovaçõ es tecnológicas . Por outro lado, Floridi et al. (2018) argumentam
+que uma regulamentação excessivamente restritiva p o de sufo car a inovação, imp edindo o
+desenvolvimento de soluçõ es p otencialmente b ené˝cas.
+A ausência de regulamentação tamb ém p o de trazer consequências graves. Zub o˙
+(2019) destaca que o uso desregulado de IA em sistemas de vigilância e análise de da-
+dos p o de resultar em violação de privacidade em larga escala, p ermitindo que empresas
+e governos monitorassem comp ortamentos p essoais sem consentimento explícito. Além
+disso, Pasquale (2015) alerta para o p erigo de algoritmos que tomam decisõ es imp ortan-
+tes (como concessõ es de crédito ou diagnósticos médicos) sem transparência ou sup ervisão
+adequada, o que p o de prejudicar indivíduos e grup os marginalizados.
+
+27
+2.2 Trabalhos Relacionados
+Diversos estudos ab ordam os impactos da regulamentação (ou a falta dela) no de-
+senvolvimento e uso da IA. Crawford e Calo (2016) discutem como a regulamentação da
+IA é necessária para evitar práticas monop olistas e a exploração de dados p essoais p or
+grandes corp oraçõ es de tecnologia. Eles destacam que, sem diretrizes claras, as empre-
+sas p o dem abusar da IA para obter vantagens comp etitivas, ao mesmo temp o em que
+prejudicam os direitos dos consumidores.
+Outro es tudo imp ortante de Brynjolfsson e McAfee (2014) discute o impacto da
+automação e IA no mercado de trabalho, observando que a substituição de trabalhadores
+humanos p or máquinas p o de exacerbar a desigualdade econômica e so cial. Eles argumen-
+tam que p olíticas públicas e regulamentaçõ es devem ser implementadas para mitigar os
+efeitos negativos da automação, como o desemprego tecnológico.
+No setor da saúde, Jiang et al. (2017) examinam como o uso de IA em diag-
+nósticos médicos apresenta tanto op ortunidades quanto riscos. Eles a˝rmam que, sem
+regulamentação apropriada, a utilização inadequada de algoritmos p o de levar a erros em
+diagnósticos e tratamentos, com consequências p otencialmente fatais. No camp o ˝nan-
+ceiro, O'Neil (2016) argumenta que algoritmos usados para determinar crédito e seguros
+frequentemente p erp etuam preconceitos históricos, prejudicando minorias e comunidades
+marginalizadas.
+Por ˝m, Go o dman e Flaxman (2017) prop õ em um mo delo de regulamentação
+˛exível, que se adapte ao nível de risco apresentado p ela aplicação da IA. Eles sugerem
+que uma ab ordagem regulatória adaptativa p o de promover inovação ao mesmo temp o que
+protege os usuários contra os riscos mais graves asso ciados ao uso irresp onsável de IA.
+(BRYNJOLFSSON; MCAFEE, 2014) (CRAWFORD; CALO, 2016) (GOODMAN;
+FLAXMAN, 2017) (JIANG et al., 2017) (O'NEIL, 2016)
+
+28
+3 METODOLOGIA
+Este capítulo apresenta a class i˝cação da p esquisa e as atividades a serem reali-
+zadas para alcançar os ob jetivos prop ostos. A meto dologia adotada combina ab ordagens
+qualitativas e quantitativas, caracterizando-se como um es tudo de meto dologia mista. A
+p esquisa será desenvolvida em etapas interligadas, envolvendo análise do cumental, apli-
+cação de questionários e triangulação de dados.
+3.1 Atividades a serem realizadas
+Esta seção detalha as atividades a serem realizadas ao longo da p esquisa.
+3.1.1 Atividade 1: Análise Documental
+Nesta etapa, será realizada a análise de do cumentos relevantes, como relatórios
+governamentais e empresariais, leis e p olíticas públicas relacionadas à regulamentação da
+IA, além de artigos cientí˝cos que tratam do tema. O ob jetivo é identi˝car os b enefícios
+e malefícios asso ciados à regulamentação da IA.
+3.1.2 Atividade 2: Pesquisa Qualitativa
+Será conduzida uma p esquisa qualitativa baseada em revisão bibliográ˝ca e análise
+de relatórios, visando compreender o impacto da regulamentação em diferentes contextos.
+Essa análise fornecerá subsídios para a formulação de diretrizes para p olíticas equilibradas.
+3.1.3 Atividade 3: Pesquisa Quantitativa
+Questionários serão aplicados a pro˝ssionais de tecnologia, p esquisadores e usuá-
+rios da IA. Dados quantitativos secundários, como taxas de ado ção da IA e incidentes
+éticos, tamb ém serão coletados de fontes con˝áveis, incluindo institutos como o MIT.
+Essa atividade busca map ear p ercep çõ es e desa˝os relacionados à regulamentação.
+
+29
+3.1.4 Atividade 4: Análise dos Dados e Triangulação
+Ap ós a coleta de dados qualitativos e quantitativos, será realizada uma triangulação
+para comparar e integrar os resultados. Tamb ém será feita uma análise comparativa entre
+países com regulamentaçõ es já estab elecidas e aqueles sem regulamentaçõ es esp ecí˝cas.
+O ob jetivo é identi˝car b oas práticas e lacunas nas p olíticas de regulamentação.
+3.1.5 Atividade 5: Resultados e Recomendações
+Com base na análise dos dados, serão elab oradas recomendaçõ es para p olíticas
+públicas equilibradas, que maximizem os b enefícios da regulamentação e minimizem seus
+malefícios. As prop ostas serão organizadas em categorias práticas para fácil implementa-
+ção.
+3.2 Cronograma
+Esta seção apresenta o cronograma de atividades previstas ao longo da p esquisa.
+(Tab ela 1).
+Tab ela 1
+
+Cronograma
+Meses
+1-3
+Meses
+4-6
+Meses
+7-9
+Meses
+10-11
+Análise Do cumental
+X
+X
+Pesquisa Qualitativa
+X
+X
+Pesquisa Quantitativa
+X
+X
+Análise dos Dados e Triangulação
+X
+X
+Resultados e Recomendaço es
+X
+
+30
+REFERÊNCIAS
+BRYNJOLFSSON, E.; M CAFEE, A.
+The Second Machine Age: Work,
+Progress, and Prosperity in a Time of Brilliant Technologies
+. [S.l.]: W.
+W. Norton & Company, 2014.
+CRAWFORD, K.; CALO, R. There is a blind sp ot in ai research.
+Nature
+, v. 538,
+n. 7625, p. 311313, 2016.
+GOODMAN, B.; FLAXMAN, S. Europ ean union regulations on algorithmic
+decision-making and a right to explanation
+
+.
+AI Magazine
+, v. 38, n. 3, p. 5057, 2017.
+JIANG, F. et al. Arti˝cial intelligence in healthcare: Past, present and future.
+Stroke
+and Vascular Neurology
+, v. 2, n. 4, p. 230243, 2017.
+O'NEIL, C.
+Weapons of Math Destruction: How Big Data Increases
+Inequality and Threatens Democracy
+. [S.l.]: Crown Publishing Group, 2016.
+
