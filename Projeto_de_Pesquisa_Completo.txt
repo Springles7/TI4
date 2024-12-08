@@ -1,21 +1,20 @@
+// OBS : TEXTO COPIADO DIRETAMENTE DO PDF, PARA MELHOR LEITURA, LEIA PELO PDF, POIS NO GITHUB ALGUMAS CARACTERES ACABAM SAINDO ERRADO
+
 PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS
 Bacharelado em Ciência da Computação
 Vitor Alexandre Moreira Amaral
 Pedro Henrique Bellone Souza e Silva
-Benefícios e Malefícios da Regulamentação da Inteligência
-Arti˝cial
+Benefícios e Malefícios da Regulamentação da Inteligência Artificial
 Belo Horizonte
 2024
 
 Vitor Alexandre Moreira Amaral
 Pedro Henrique Bellone Souza e Silva
-Benefícios e Malefícios da Regulamentação da Inteligência
-Arti˝cial
-Pro jeto de Pesquisa apresentado na disci-
-plina Trabalho Interdisciplinar I I I - Pesquisa
-Aplicada do curso de Ciência da Computação
-da Pontifícia Univers idade Católica de Minas
-Gerais.
+
+Benefícios e Malefícios da Regulamentação da Inteligência Artificial
+
+Projeto de Pesquisa apresentado na disciplina Trabalho Interdisciplinar I I I - 
+Pesquisa Aplicada do curso de Ciência da Computação da Pontifícia Univers idade Católica de Minas Gerais.
 Belo Horizonte
 2024
 
@@ -88,7 +87,6 @@ Os ob jetivos esp ecí˝cos deste pro jeto são:
 3.
  Compreeder o que a falta de regulamentação da IA p o de causar.
 
-26
 2 REVISÃO BIBLIOGRÁFICA
 Este capítulo apres enta a fundamentação teórica relacionada à regulamentação
 da Inteligência Arti˝cial (IA), destacando os principais b enefícios e malefícios asso ciados
@@ -117,19 +115,21 @@ disso, Pasquale (2015) alerta para o p erigo de algoritmos que tomam decisõ es 
 tes (como concessõ es de crédito ou diagnósticos médicos) sem transparência ou sup ervisão
 adequada, o que p o de prejudicar indivíduos e grup os marginalizados.
 
-27
 2.2 Trabalhos Relacionados
+
 Diversos estudos ab ordam os impactos da regulamentação (ou a falta dela) no de-
 senvolvimento e uso da IA. Crawford e Calo (2016) discutem como a regulamentação da
 IA é necessária para evitar práticas monop olistas e a exploração de dados p essoais p or
 grandes corp oraçõ es de tecnologia. Eles destacam que, sem diretrizes claras, as empre-
 sas p o dem abusar da IA para obter vantagens comp etitivas, ao mesmo temp o em que
 prejudicam os direitos dos consumidores.
+
 Outro es tudo imp ortante de Brynjolfsson e McAfee (2014) discute o impacto da
 automação e IA no mercado de trabalho, observando que a substituição de trabalhadores
 humanos p or máquinas p o de exacerbar a desigualdade econômica e so cial. Eles argumen-
 tam que p olíticas públicas e regulamentaçõ es devem ser implementadas para mitigar os
 efeitos negativos da automação, como o desemprego tecnológico.
+
 No setor da saúde, Jiang et al. (2017) examinam como o uso de IA em diag-
 nósticos médicos apresenta tanto op ortunidades quanto riscos. Eles a˝rmam que, sem
 regulamentação apropriada, a utilização inadequada de algoritmos p o de levar a erros em
@@ -137,6 +137,7 @@ diagnósticos e tratamentos, com consequências p otencialmente fatais. No camp 
 ceiro, O'Neil (2016) argumenta que algoritmos usados para determinar crédito e seguros
 frequentemente p erp etuam preconceitos históricos, prejudicando minorias e comunidades
 marginalizadas.
+
 Por ˝m, Go o dman e Flaxman (2017) prop õ em um mo delo de regulamentação
 ˛exível, que se adapte ao nível de risco apresentado p ela aplicação da IA. Eles sugerem
 que uma ab ordagem regulatória adaptativa p o de promover inovação ao mesmo temp o que
@@ -144,71 +145,45 @@ protege os usuários contra os riscos mais graves asso ciados ao uso irresp ons�
 (BRYNJOLFSSON; MCAFEE, 2014) (CRAWFORD; CALO, 2016) (GOODMAN;
 FLAXMAN, 2017) (JIANG et al., 2017) (O'NEIL, 2016)
 
-28
-3 METODOLOGIA
+3 - METODOLOGIA
 Este capítulo apresenta a class i˝cação da p esquisa e as atividades a serem reali-
 zadas para alcançar os ob jetivos prop ostos. A meto dologia adotada combina ab ordagens
 qualitativas e quantitativas, caracterizando-se como um es tudo de meto dologia mista. A
 p esquisa será desenvolvida em etapas interligadas, envolvendo análise do cumental, apli-
 cação de questionários e triangulação de dados.
+
 3.1 Atividades a serem realizadas
 Esta seção detalha as atividades a serem realizadas ao longo da p esquisa.
+
 3.1.1 Atividade 1: Análise Documental
 Nesta etapa, será realizada a análise de do cumentos relevantes, como relatórios
 governamentais e empresariais, leis e p olíticas públicas relacionadas à regulamentação da
 IA, além de artigos cientí˝cos que tratam do tema. O ob jetivo é identi˝car os b enefícios
 e malefícios asso ciados à regulamentação da IA.
+
 3.1.2 Atividade 2: Pesquisa Qualitativa
 Será conduzida uma p esquisa qualitativa baseada em revisão bibliográ˝ca e análise
 de relatórios, visando compreender o impacto da regulamentação em diferentes contextos.
 Essa análise fornecerá subsídios para a formulação de diretrizes para p olíticas equilibradas.
+
 3.1.3 Atividade 3: Pesquisa Quantitativa
 Questionários serão aplicados a pro˝ssionais de tecnologia, p esquisadores e usuá-
 rios da IA. Dados quantitativos secundários, como taxas de ado ção da IA e incidentes
 éticos, tamb ém serão coletados de fontes con˝áveis, incluindo institutos como o MIT.
 Essa atividade busca map ear p ercep çõ es e desa˝os relacionados à regulamentação.
 
-29
 3.1.4 Atividade 4: Análise dos Dados e Triangulação
 Ap ós a coleta de dados qualitativos e quantitativos, será realizada uma triangulação
 para comparar e integrar os resultados. Tamb ém será feita uma análise comparativa entre
 países com regulamentaçõ es já estab elecidas e aqueles sem regulamentaçõ es esp ecí˝cas.
 O ob jetivo é identi˝car b oas práticas e lacunas nas p olíticas de regulamentação.
+
 3.1.5 Atividade 5: Resultados e Recomendações
 Com base na análise dos dados, serão elab oradas recomendaçõ es para p olíticas
 públicas equilibradas, que maximizem os b enefícios da regulamentação e minimizem seus
 malefícios. As prop ostas serão organizadas em categorias práticas para fácil implementa-
 ção.
-3.2 Cronograma
-Esta seção apresenta o cronograma de atividades previstas ao longo da p esquisa.
-(Tab ela 1).
-Tab ela 1
-
-Cronograma
-Meses
-1-3
-Meses
-4-6
-Meses
-7-9
-Meses
-10-11
-Análise Do cumental
-X
-X
-Pesquisa Qualitativa
-X
-X
-Pesquisa Quantitativa
-X
-X
-Análise dos Dados e Triangulação
-X
-X
-Resultados e Recomendaço es
-X
 
-30
 REFERÊNCIAS
 BRYNJOLFSSON, E.; M CAFEE, A.
 The Second Machine Age: Work,
